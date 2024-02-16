@@ -1,1 +1,7 @@
-
+spring:
+  data:
+    mongodb:
+      host: www.luckycurve.space
+      port: 27077
+      username: admin
+      password: seth123
